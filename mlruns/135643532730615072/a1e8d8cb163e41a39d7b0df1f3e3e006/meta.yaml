@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/a1e8d8cb163e41a39d7b0df1f3e3e006/artifacts
+end_time: 1752033614305
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: a1e8d8cb163e41a39d7b0df1f3e3e006
+run_name: capricious-shad-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752033613727
+status: 4
+tags: []
+user_id: Mishti

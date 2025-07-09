@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/39ccd0903cee473f82f0e0f401f37794/artifacts
+end_time: 1752033853352
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 39ccd0903cee473f82f0e0f401f37794
+run_name: fun-kit-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752033844864
+status: 3
+tags: []
+user_id: Mishti

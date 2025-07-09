@@ -22,11 +22,11 @@ X = wine.data
 y = wine.target
 
 #split data into train and test
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= 0.10, random_state= 10)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= 0.10, random_state= 42)
 
 #define parameters for RandomForest model
-max_depth = 10
-n_estimators = 15
+max_depth = 15
+n_estimators = 10
 
 #specify experiment name. If not done, then mlflow will run experiments under Default
 #Note: while setting experiment name, if the experiment name specified does not exist, it will be created

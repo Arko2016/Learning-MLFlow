@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/6b374fd41cb24cdbaf796974e01e9bd0/artifacts
+end_time: 1752034055290
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 6b374fd41cb24cdbaf796974e01e9bd0
+run_name: vaunted-carp-255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752034049535
+status: 3
+tags: []
+user_id: Mishti
