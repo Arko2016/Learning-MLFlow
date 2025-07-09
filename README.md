@@ -90,5 +90,7 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
    - **Experiment Name**: Group multiple runs under a single experiment name.
    - **Timestamps**: Log start and end times of each run to track duration.
 
-This comprehensive list should help users understand the versatility of MLflow for tracking and managing their machine learning workflows.
+### What is the relation between Experiment and Runs in MLFlow?
+In MLflow, an experiment is a container for related runs, while a run represents a single execution of a machine learning model or code. Think of an experiment as a project folder, and runs as individual tasks within that project.
+We use experiments to organize your work, and runs to track the details of individual executions of our machine learning code
 

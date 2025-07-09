@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/41fa05266dfb48ec9af50d67567752ba/artifacts
+end_time: 1752031449138
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 41fa05266dfb48ec9af50d67567752ba
+run_name: intrigued-kit-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752031448555
+status: 3
+tags: []
+user_id: Mishti

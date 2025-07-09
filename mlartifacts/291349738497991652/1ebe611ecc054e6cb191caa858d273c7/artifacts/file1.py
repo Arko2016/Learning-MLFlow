@@ -30,7 +30,7 @@ n_estimators = 10
 
 #specify experiment name. If not done, then mlflow will run experiments under Default
 #Note: while setting experiment name, if the experiment name specified does not exist, it will be created
-mlflow.set_experiment('exp1')
+mlflow.set_experiment('exp2')
 
 #start mlflow experiment context manager
 with mlflow.start_run():
