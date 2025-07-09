@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4140ba4c54804dcc94ceb3dae6e27b39/artifacts
+end_time: 1752026584923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4140ba4c54804dcc94ceb3dae6e27b39
+run_name: intrigued-grub-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752026584782
+status: 3
+tags: []
+user_id: Mishti

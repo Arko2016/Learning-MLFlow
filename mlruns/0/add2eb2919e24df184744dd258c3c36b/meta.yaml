@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/add2eb2919e24df184744dd258c3c36b/artifacts
+end_time: 1752028941225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: add2eb2919e24df184744dd258c3c36b
+run_name: resilient-foal-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752028938568
+status: 3
+tags: []
+user_id: Mishti
