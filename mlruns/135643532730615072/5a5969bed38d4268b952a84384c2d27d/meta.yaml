@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/5a5969bed38d4268b952a84384c2d27d/artifacts
+end_time: 1752032217552
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 5a5969bed38d4268b952a84384c2d27d
+run_name: abrasive-bug-170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752032216996
+status: 4
+tags: []
+user_id: Mishti

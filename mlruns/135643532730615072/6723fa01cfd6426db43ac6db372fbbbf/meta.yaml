@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/6723fa01cfd6426db43ac6db372fbbbf/artifacts
+end_time: 1752034019291
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 6723fa01cfd6426db43ac6db372fbbbf
+run_name: luxuriant-shrike-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752034013744
+status: 3
+tags: []
+user_id: Mishti

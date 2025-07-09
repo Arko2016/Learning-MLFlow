@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/c02c6751fd8945468535bc57cd805118/artifacts
+end_time: 1752034077645
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: c02c6751fd8945468535bc57cd805118
+run_name: treasured-robin-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752034072272
+status: 3
+tags: []
+user_id: Mishti

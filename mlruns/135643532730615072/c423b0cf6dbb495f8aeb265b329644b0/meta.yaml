@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/c423b0cf6dbb495f8aeb265b329644b0/artifacts
+end_time: 1752032273773
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: c423b0cf6dbb495f8aeb265b329644b0
+run_name: judicious-mare-194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752032273207
+status: 3
+tags: []
+user_id: Mishti

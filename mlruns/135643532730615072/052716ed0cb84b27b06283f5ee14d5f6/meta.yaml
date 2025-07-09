@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/135643532730615072/052716ed0cb84b27b06283f5ee14d5f6/artifacts
+end_time: 1752034105582
+entry_point_name: ''
+experiment_id: '135643532730615072'
+lifecycle_stage: active
+run_id: 052716ed0cb84b27b06283f5ee14d5f6
+run_name: indecisive-robin-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752034100135
+status: 3
+tags: []
+user_id: Mishti
