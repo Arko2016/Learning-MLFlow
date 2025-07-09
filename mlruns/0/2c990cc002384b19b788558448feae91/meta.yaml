@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2c990cc002384b19b788558448feae91/artifacts
+end_time: 1752028790098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c990cc002384b19b788558448feae91
+run_name: overjoyed-gull-283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752028787376
+status: 3
+tags: []
+user_id: Mishti

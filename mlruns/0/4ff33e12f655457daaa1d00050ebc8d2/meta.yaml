@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4ff33e12f655457daaa1d00050ebc8d2/artifacts
+end_time: 1752028861128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ff33e12f655457daaa1d00050ebc8d2
+run_name: mysterious-hare-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752028858429
+status: 3
+tags: []
+user_id: Mishti
