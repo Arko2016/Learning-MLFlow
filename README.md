@@ -94,3 +94,8 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
 In MLflow, an experiment is a container for related runs, while a run represents a single execution of a machine learning model or code. Think of an experiment as a project folder, and runs as individual tasks within that project.
 We use experiments to organize your work, and runs to track the details of individual executions of our machine learning code
 
+### How to overcome errors with mlflow.log_model() during Experiment Tracking APIs?
+the current version of MLFlow often throws errors while trying to log model. To overcome this error, pip install mlflow==2.2.2 which is stable and should not cause the error
+
+
+

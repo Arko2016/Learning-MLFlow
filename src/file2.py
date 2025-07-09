@@ -6,12 +6,12 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt 
 import seaborn as sns
+import dagshub
 
-'''
-Note: if we try to log a local file as an artifact, MLFlow can generate an error
-To avoid the same, MLFlow suggests to set the tracking URI
-'''
-mlflow.set_tracking_uri('http://localhost:5000')
+#initiate dagshub
+dagshub.init(repo_owner='Arko2016', repo_name='Learning-MLFlow', mlflow=True)
+
+mlflow.set_tracking_uri('https://dagshub.com/Arko2016/Learning-MLFlow.mlflow')
 print(f"MLFLow Tracking URI: {mlflow.get_tracking_uri()}")
 
 #load dataset
@@ -26,11 +26,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size= 0.10, rando
 
 #define parameters for RandomForest model
 max_depth = 10
-n_estimators = 15
+n_estimators = 10
 
 #specify experiment name. If not done, then mlflow will run experiments under Default
 #Note: while setting experiment name, if the experiment name specified does not exist, it will be created
-mlflow.set_experiment('exp1')
+mlflow.set_experiment('exp2')
 
 #start mlflow experiment context manager
 with mlflow.start_run():
@@ -74,5 +74,5 @@ with mlflow.start_run():
     mlflow.set_tags({"Author": "AJ", "Project": "Wine Classification"})
 
     #log model
-    mlflow.sklearn.log_model(rf, str("Random-Forest-Model"))
+    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
