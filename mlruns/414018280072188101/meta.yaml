@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Mishti/Downloads/Arko%20Learning/Learning-MLFlow/mlruns/414018280072188101
+creation_time: 1752119486959
+experiment_id: '414018280072188101'
+last_update_time: 1752119486959
+lifecycle_stage: active
+name: breast-cancer-rf-hp

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mishti/Downloads/Arko%20Learning/Learning-MLFlow/mlruns/414018280072188101/models/m-f0a05a2fcf5b45eba1a3c921d99a340e/artifacts
+creation_timestamp: 1752119496755
+experiment_id: '414018280072188101'
+last_updated_timestamp: 1752119504655
+model_id: m-f0a05a2fcf5b45eba1a3c921d99a340e
+model_type: null
+name: random_forest
+source_run_id: 5d436ec5ed284305b5916ad63d1defee
+status: 2
+status_message: null
