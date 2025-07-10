@@ -1,13 +1,15 @@
 ### Objective
 Demonstrate MLOps Experiment tracking using MLFlow
 
+---
+
 ### MLFlow vs DVC
 
 1. DVC (Data Version Control) and MLflow are both popular open-source tools for machine learning workflows, but they have different primary focuses. 
 2. DVC excels at data and model versioning, while MLflow is designed for end-to-end ML lifecycle management, including experiment tracking, model registry, and deployment. 
 3. They can also be used together to create a comprehensive MLOps pipeline. 
 
-### DVC (Data Version Control):
+#### DVC (Data Version Control):
 - Core Function:
     DVC specializes in versioning large datasets, models, and other large files associated with machine learning projects. 
 - Key Features:
@@ -20,7 +22,7 @@ Demonstrate MLOps Experiment tracking using MLFlow
 - Example Use Cases:
     Tracking different versions of a training dataset, managing different model versions, and defining reproducible data pipelines. 
 
-### MLflow:
+#### MLflow:
 - Core Function:
     MLflow provides a platform for managing the entire machine learning lifecycle, including experiment tracking, model registry, and deployment. 
 - Key Features:
@@ -32,6 +34,8 @@ Demonstrate MLOps Experiment tracking using MLFlow
     MLflow is well-suited for managing the entire ML lifecycle, especially experiment tracking, model versioning, and deployment. 
 - Example Use Cases:
     Tracking hyperparameters of different model versions, logging model performance metrics, and deploying models to production. 
+
+---
 
 ### What Model attributes can be logged using MLFlow?
 MLflow is a powerful tool for tracking and managing machine learning experiments. Here’s a list of things that can be tracked/logged using MLflow, which you can include in your tutorial documentation:
@@ -90,9 +94,13 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
    - **Experiment Name**: Group multiple runs under a single experiment name.
    - **Timestamps**: Log start and end times of each run to track duration.
 
+---
+
 ### What is the relation between Experiment and Runs in MLFlow?
 In MLflow, an experiment is a container for related runs, while a run represents a single execution of a machine learning model or code. Think of an experiment as a project folder, and runs as individual tasks within that project.
 We use experiments to organize your work, and runs to track the details of individual executions of our machine learning code
+
+---
 
 ### How to overcome errors with mlflow.log_model() during Experiment Tracking APIs?
 the current version of MLFlow often throws errors while trying to log model. To overcome this error, pip install mlflow==2.2.2 which is stable and should not cause the error
