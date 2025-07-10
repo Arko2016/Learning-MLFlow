@@ -1,0 +1,10 @@
+aliases:
+  devlopment: '3'
+  production: '2'
+  staging: '1'
+creation_timestamp: 1752120516080
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1752121422549
+name: aj model 1
